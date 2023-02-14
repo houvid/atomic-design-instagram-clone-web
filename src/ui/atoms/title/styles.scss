@@ -1,0 +1,11 @@
+.app-title {
+  font-weight: bold;
+
+  &--basic {
+    color: rgb(38, 38, 38);
+  }
+
+  &--primary {
+    color: rgb(0, 149, 246);
+  }
+}
