@@ -1,0 +1,14 @@
+.app-sub-title {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  &--basic {
+    color: rgb(142, 142, 142);
+  }
+
+  &--primary {
+    color: rgb(0, 149, 246);
+  }
+}
